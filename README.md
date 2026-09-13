@@ -42,3 +42,10 @@
  # numbered list
  1. first
  2. second
+
+# stikethrough
+--strikethrough -- or -strikthrough-
+# subscript
+This is H<sub>2</sub>O
+# superscript
+This is x<sup>2</sup> + y<sup>3</sup>
