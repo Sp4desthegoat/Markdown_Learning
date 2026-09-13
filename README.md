@@ -49,3 +49,9 @@
 This is H<sub>2</sub>O
 # superscript
 This is x<sup>2</sup> + y<sup>3</sup>
+
+# subscript
+# all bold and italic
+***all these texts are important***
+# bold and nested italic
+**this text is _extremely_ important**
