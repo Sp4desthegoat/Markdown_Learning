@@ -55,3 +55,14 @@ This is x<sup>2</sup> + y<sup>3</sup>
 ***all these texts are important***
 # bold and nested italic
 **this text is _extremely_ important**
+
+# creating tables
+| first header | second header |
+| ------ | ------ |
+| content cell | content cell |
+| content cell | content cell | 
+
+| command | description |
+| --- | --- |
+| git status | least all modified files |
+| git diff | show files differences that haven't been staged |
