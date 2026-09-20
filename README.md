@@ -67,7 +67,7 @@ This is x<sup>2</sup> + y<sup>3</sup>
 | git status | least all modified files |
 | git diff | show files differences that haven't been staged |
 
-# alert
+# ALERT!
 
 > [!CAUTION]
 > BE CAREFUL WHEN EDITING SYSTEM FILES. MISTAKES CAN BREAK YOUR SETUP.
